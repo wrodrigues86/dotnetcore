@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XRwyiPtygWug5la5V+SSmqRC02LYMBxiV995hwyNBIdLRwFSMiKCdvzOLnzOdTu3DhtT7vwoeIrmWhoUBg1pHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wrodrigues\\OneDrive - Triscal Consultoria e Tecnologia\\Área de Trabalho\\REACTJS\\testeapi\\testeapi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wrodrigues\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
